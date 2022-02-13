@@ -22,7 +22,7 @@ title: Jay Barra's Page
 email: jay.f.barra@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I write software, design systems, fix bugs, and deploy great things.
-baseurl: "/blog" 
+baseurl: "" 
 url: "https://draconic-systems.com"
 github_username:  jaybarra
 
